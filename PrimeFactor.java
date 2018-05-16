@@ -1,3 +1,7 @@
+//***********************************
+//This returns the prime factors of a given number.
+//*************************************
+
 import java.lang.Math;
 
 public class PrimeFactor {
