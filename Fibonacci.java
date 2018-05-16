@@ -1,3 +1,7 @@
+//****************************************************************
+//This returns the sum of the series of fibbonacci's sequence. 
+//The 32nd occurance happens to be under 4,000,000
+//*****************************************************************
 public class Fibonacci {
 	public static void main(String[] args) {
 		int[] fibbo = new int[32];
